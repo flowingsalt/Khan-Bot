@@ -20,4 +20,7 @@ Extension coming maybe
 
 I also have a way of adding points (I think) updates soon I guess.
 
+Discord soon maybe???
+If it doesn't work just make an issue and I will fix it.
+
 jmenu sucks rofl
